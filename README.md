@@ -1,2 +1,4 @@
 # web-dvelopment
-my firt git repository
+ This is my first reposistory 
+ author chandan ghanghav 
+ 
